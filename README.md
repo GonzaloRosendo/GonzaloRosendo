@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gonzalorosendodi/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/89227071/136055085-6a4ee348-e21a-49f6-a5f8-dfafd10ed32b.png" alt="GonzaloRosendo" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/gonzalorosendodi/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/89227071/136055478-332be7c8-9d75-4f52-909a-bb52d4fca339.png" alt="-GonzaloRosendo" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/gonzalo-rosendo/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/89227071/136055085-6a4ee348-e21a-49f6-a5f8-dfafd10ed32b.png" alt="GonzaloRosendo" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/gonzalo-rosendo/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/89227071/136055478-332be7c8-9d75-4f52-909a-bb52d4fca339.png" alt="-GonzaloRosendo" height="40" width="40" /></a>
  <a href="mailto:grosendo@hotmail.com" target="blank"></a>
 </p>
 
